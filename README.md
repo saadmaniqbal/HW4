@@ -19,7 +19,7 @@ For Part 3, ideas for the formulae and logic behind casting shadows were similar
 
 https://www.scratchapixel.com/
 
-The procedure followed are mentioned in the comments in my code. Due to limitations on the starter code, I couldn't manage to remove some shadow acne and thus a slight bit of it remains present. The shadows are casted correctly on the plane created behind the spheres and on the slanted triangle.
+The procedure followed are mentioned in the comments in my code. Due to limitations on the starter code, I couldn't manage to remove some shadow acne and thus a slight bit of it remains present. The shadows are casted correctly on the plane created behind the spheres and the slanted triangle.
 
 For Part 4, due to my inability to follow the recursive approach inside the trace function to build the reflectivity on different object surfaces, I had drawn inspiration again from the internet to find a way to implement a reflective surface from the rendering function by creating a frosted mirror like surface by changing color of the pixels below a certain point and overlap that with inverted images of my objects. That has been implemented correctly.
 
